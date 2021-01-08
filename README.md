@@ -1,7 +1,8 @@
 FSS
  
 /webapp
-	/images/bigdata
+	/images
+		/bigdata
 		
 	/scripts
 		jquery-1.12.4.js
