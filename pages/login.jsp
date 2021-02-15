@@ -24,17 +24,17 @@
 	<form>
 
 		<fieldset id="login-field">
-	
+
 			<p class="form-id">
 				<label for="input-id">아이디</label>
 				<input type="text" id="input-id" name="" placeholder="아이디를 입력해주세요" />
 			</p>
-	
+
 			<p class="form-pw">
 				<label for="input-pw">비밀번호</label>
 				<input type="password" id="input-pw" name="" placeholder="비밀번호를 입력해주세요" />
 			</p>
-	
+
 			<p class="form-option">
 				<input type="radio" id="input-opt1" name="" checked="checked" />
 				<label for="input-opt1">민원상담지원</label>
